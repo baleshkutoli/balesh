@@ -1,0 +1,29 @@
+#id1{
+    text-align: center;
+    color: blue;
+     font-size: 100px;
+
+}
+
+#body{
+
+    display: flex;
+    align-self: baseline;
+    justify-content: space-evenly;
+}
+
+#weds{
+    margin-top: 100px;
+    text-decoration: color( rgb(16, 115, 148) );
+}
+#xy{
+    background-image: url(download.jpeg) ;
+    background-repeat: none;
+    background-size: 100%;
+
+}
+#location{
+    text-align: center;
+    color: blue;
+     font-size: 100px;
+}
